@@ -1,3 +1,13 @@
+"""
+Program: my_definitions.py
+Author: Jessie Horvath
+Date Modified: 3/15/2022
+
+The purpose of this program is to define a set of functions
+that will be called in a separate file. There are also defined
+variables assigned in this file.
+"""
+
 def friendly_greeting():
     return "Hello friend"
 
